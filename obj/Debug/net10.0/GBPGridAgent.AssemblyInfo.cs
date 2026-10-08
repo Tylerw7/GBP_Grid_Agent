@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GBPGridAgent")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3b82b0ac580f6bb3a6b91a3f44b183921f8cabed")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7c0031a163d31878ce61536f6d99d3aaba33d7b6")]
 [assembly: System.Reflection.AssemblyProductAttribute("GBPGridAgent")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GBPGridAgent")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
